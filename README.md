@@ -10,4 +10,5 @@ Ele apresenta duas páginas: Home e Currículo.
   - Responsividade;
   - Media Query;
 ## Abrir e rodar o projeto
-Para abrir e rodar o projeto, abra o arquivo `index.html` no seu navegador de escolha.
+Para rodar o projeto, apenas acesse este link: [site](https://curriculo-silk-five.vercel.app/)  
+Uma outra alternativa é abrir o arquivo `index.html` no seu navegador de escolha.
