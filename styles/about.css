@@ -40,6 +40,10 @@ body {
     text-decoration: none;
 }
 
+.cabecalho__menu--link:hover {
+    text-decoration: underline;
+}
+
 .curriculo {
     padding: 3% 15%;
     display: flex;
