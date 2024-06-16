@@ -6,9 +6,8 @@
     --cor-texto: white;
     --cor-fundo: black;
     --cor-destaque: aqua;
-    --fonte-courier-new: 'Courier New', Courier, monospace;
-    --fonte-montserrat: 'Montserrat', sans-serif;
-    --fonte-raleway: 'Raleway', sans-serif;
+    --fonte-montserrat: 'Montserrat';
+    --fonte-raleway: 'Raleway';
 }
 
 * {
@@ -66,7 +65,7 @@ body {
 }
 
 .curriculo__conteudo__subtitulo {
-    font-family: var(--fonte-courier-new);
+    font-family: var(--fonte-montserrat);
     font-size: 3vh;
 }
 
@@ -139,7 +138,7 @@ body {
 }
 
 .rodape {
-    font-family: var(--fonte-courier-new);
+    font-family: var(--fonte-montserrat);
     color: rgb(161, 161, 161);
     
 }
